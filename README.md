@@ -1,5 +1,5 @@
 
-📝 Flask To-Do List API
+# 📝 Flask To-Do List API
 
 A simple RESTful API built with *Flask* and *SQLite* that allows you to create, read, update, and delete tasks.
 
@@ -31,8 +31,8 @@ A simple RESTful API built with *Flask* and *SQLite* that allows you to create, 
 
 1. *Clone the repository:*
    bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/BelalMedhat76/Flask-To-Do-List-API.git
+   cd Flask-To-Do-List-API
    
 
 2. *Install dependencies:*
@@ -42,7 +42,7 @@ A simple RESTful API built with *Flask* and *SQLite* that allows you to create, 
 
 3. *Run the app:*
    bash
-   python app.py
+   python3 app.py
    ```
 
 4. Access the API:
